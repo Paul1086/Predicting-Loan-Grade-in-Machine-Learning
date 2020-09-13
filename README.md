@@ -1,16 +1,14 @@
 # Prediction Loan Grade from Lending Club Data 
 
-Project from Data Science Masters Class in which my group predicts loan grades from Lending Club data
 
-
-Members: Bipasha Kundu, Sudipta Paul and Noah Wong
+**Contributors:** Bipasha Kundu, Sudipta Paul and Noah Wong
 
 ## Files included:
-* Final Presentation
-* Data- Download the dataset from the reference and use the file called "accepted_2007_to2018Q4.csv" [1] 
+* Presentation Slides
+* Dataset [1] 
 * Python Code
-  * Data Preprocessing- Reads in the data file and organizes the data. Exports the cleaned data to be used by the other two files
-  * Exploratory Analysis- Reads in clean data and creates charts to help understand our dataset
+  * Data Preprocessing- This includes statistical data analysis, data visualization, and data cleaning 
+  * Exploratory Analysis- 
   * Machine Learning Algorithms- Reads in clean data and creates the different machine learning models
 
 ## Code
