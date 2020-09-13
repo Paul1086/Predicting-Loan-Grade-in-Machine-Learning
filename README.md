@@ -3,7 +3,9 @@
 
 **Contributors:** Bipasha Kundu, Sudipta Paul and Noah Wong
 
-**Platform:** Python
+## Programming Platform:
+* Python
+
 ## Used Libraries:
 * Data Analysis and cleaning: Pandas, NumPy, SciPy 
 * Data Visualization: Matplotlib, Seaborn
