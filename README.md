@@ -1,8 +1,5 @@
 # Prediction Loan Grade from Lending Club Data 
 
-
-**Contributors:** Bipasha Kundu, Sudipta Paul and Noah Wong
-
 ## Programming Platform:
 * Python
 
