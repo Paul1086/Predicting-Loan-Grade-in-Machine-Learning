@@ -21,5 +21,5 @@ The code was written in Python. To run the code you need to download the data fi
 
 
 
-## References
+## Dataset
 https://www.kaggle.com/wordsforthewise/lending-club
